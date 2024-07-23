@@ -13,14 +13,21 @@ You can view the certificate here:
 [Taranpreet Kaur.pdf](https://github.com/user-attachments/files/16347550/Taranpreet.Kaur.pdf)
 
 This course has equipped me with essential skills in Excel, including:
+
 • Basic Excel functions and formulas
+
 • Data organization and management
 
 I gained alot of knowledge about excel including:
+
 ○ *Basic Navigation*: Understanding the Excel interface, including the ribbon, tabs, and menus.
+
 ○ *Data Entry and Formatting*: Learning how to enter data efficiently, format cells, and apply basic styles to enhance readability.
+
 ○ *Formulas and Functions*: Introduction to essential formulas and functions, such as SUM, AVERAGE, MIN, MAX, and basic conditional functions like IF.
+
 ○ *Data Organization*: Techniques for sorting, filtering, and organizing data within spreadsheets.
+
 ○ *Charts and Graphs*: Creating and customizing basic charts and graphs to visually represent data.
 
 
