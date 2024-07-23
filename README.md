@@ -2,7 +2,7 @@
 About Taranpreet Kaur:
 My Full Name is Taranpreet Kaur.
 
-| ----- | ------- | -------- | 
+| --- | --- | --- | 
 | Name | Class | Percentage | 
 | Taranpreet Kaur | 12th Non-Medical | 85.6% |
 
